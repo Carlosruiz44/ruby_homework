@@ -40,3 +40,30 @@ end
 	result = add(400, 20)
 
 puts result
+
+def join_strings(greeting, name)
+	greeting + ' ' + name + '!'
+end
+
+message = join_strings('Hello', 'Carlos')
+
+# puts message
+# for testing purposes
+
+#Problem 4
+
+# calling the method puts prints the return value 
+# of the method you ran on to terminal
+# returning a value simply holds the product of the method you just ran, 
+# it does not print to screen
+
+
+
+
+
+
+
+
+
+
+
